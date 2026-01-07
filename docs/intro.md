@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # 🎨 EHU 3D Graphics Lab
 
-[![Screenshot](https://github.com/dif3dgela/dif3dgela.github.io/blob/main/assets/media/icon.png)](https://dif3dgela.github.io/)
-
 Welcome to the **3D Graphics Laboratory** at the University of the Basque Country (EHU)
 A creative playground where students can explore, experiment, and build with **3D technologies**.
 
