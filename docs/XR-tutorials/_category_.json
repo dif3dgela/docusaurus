@@ -1,0 +1,8 @@
+{
+  "label": "XR tutorials",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Getting started in XR"
+  }
+}

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# VR Climbing: 
+# AR and passthrough
 
 -This are the steps to follow for creating a VR climbing game. 
 
