@@ -2,46 +2,45 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 🎨 [EHU 3D Graphics Lab](https://github.com/dif3dgela/dif3dgela.github.io) (dif.3d.gela)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+[![Screenshot](https://github.com/dif3dgela/dif3dgela.github.io/blob/main/assets/media/icon.png)](https://dif3dgela.github.io/)
 
-## Getting Started
+Welcome to the **3D Graphics Laboratory** at the University of the Basque Country (EHU)
+A creative playground where students can explore, experiment, and build with **3D technologies**.
 
-Get started by **creating a new site**.
+[Get Started](https://dif3dgela.github.io/about/)
+[Discord](https://discord.gg/wqEvEaegyv)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+---
 
-### What you'll need
+## 🚀 What We Do
+- **3D Modeling & Animation** – Blender, open-source tools, and artistic workflows
+- **Game Engines and game intelligence** – Unity, Godot, and interactive experiences
+- **3D Printing & Fabrication** – from digital models to physical objects
+- **Research & Learning** – workshops, tutorials, and collaborative projects
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+check our [projects](https://github.com/dif3dgela) developed by students
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
+## 🌍 Join the Lab
+This lab is open to **students of all backgrounds** whether you’re into programming, design, art, or just curious about 3D!
 
-The classic template will automatically be added to your project after you run the command:
+- 📚 Learn by doing
+- 🛠️ Share your projects
+- 🤝 Collaborate with peers
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 📢 Stay Connected
+We’re just getting started! This site will grow with resources, guides, and showcases of student work.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+👉 Follow updates here and on our GitHub repository.
+👉 Contribute ideas, projects, or tutorials to help the lab thrive!
+👉 Join our [Discord channel](https://discord.gg/wqEvEaegyv)
 
-## Start your site
+---
 
-Run the development server:
+Made with 💡 by the **EHU 3D Graphics Lab** team.
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
